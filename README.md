@@ -1,7 +1,7 @@
 This porject is used to learn muduo recipes
 with 2 minor changes from the [source code](https://github.com/chenshuo/recipes/tree/master/reactor).
 
-- The base part comes from [2.x muduo base](https://github.com/chenshuo/recipes/tree/master/reactor).
+- The base part comes from [2.x muduo base](https://github.com/chenshuo/muduo/tree/master/muduo/base).
 - Use CMake to build the project. And built the base part as a static library.
 
 Usage: 
